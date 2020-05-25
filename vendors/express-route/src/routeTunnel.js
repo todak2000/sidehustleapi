@@ -15,7 +15,7 @@ module.exports = function routeTunnel (app,obj,routePath,middlewares=[],options)
 
 
                 //ignore middlewares as it has been taken care of previously
-                if (prop !== 'middlewares'){
+                if (prop !== 'middlewares' || prop !== 'ignoreMiddlewares'){
 
                     if (obj.hasOwnProperty(prop)){
 

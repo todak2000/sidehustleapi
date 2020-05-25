@@ -13,7 +13,11 @@ module.exports = (sequelize, DataTypes) => {
     States.belongsTo(models.Statuses,{
       as:"status",
       foreignKey:'status_id'
-    })
+    });
+    States.hasMany(models.Local_governments,{
+      as:"lgas",
+      foreignKey:'state_id'
+    });
     // associations can be defined here
   };
   return States;

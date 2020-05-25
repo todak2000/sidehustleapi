@@ -10,7 +10,9 @@ module.exports = (app,url,routeObject,oldMiddlewares=[],opt)=>{
     }else{
 
         let {path,method}                       =   controller;
-
+        if(!path){
+             throw new Error("path is not defined");
+        }
         let integratedPath = `.${nodePath.join('/',opt.controllerDirectory,path)}`;
         requireController = require.main.require(integratedPath);
 

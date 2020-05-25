@@ -22,6 +22,54 @@ module.exports = {
                     verb: 'post'
                 }
             },
+            helpers:{
+                ignoreMiddlewares: ['isLoggedIn'],
+                project:{
+                    types:{
+                        controller:{
+                            path:"project_type",
+                            method:"list"
+                        },
+                        verb:'get'
+                    }
+                },
+                states:{
+                    list:{
+                        controller:{
+                            path:'state',
+                            method:"list"
+                        },
+                        verb:'get'
+                    }
+                },
+                statuses:{
+                    list:{
+                        controller:{
+                            path:'status',
+                            method:"list"
+                        },
+                        verb:'get'
+                    }
+                },
+                usertypes:{
+                    list:{
+                        controller:{
+                            path:'user_type',
+                            method:"list"
+                        },
+                        verb:'get'
+                    }
+                },
+                categories:{
+                    list:{
+                        controller:{
+                            path:'category',
+                            method:"list"
+                        },
+                        verb:'get'
+                    }
+                }
+            },
             artisan:{
                 middlewares:['isArtisan'],
                 projects:{
