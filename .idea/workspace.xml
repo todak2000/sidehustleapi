@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a58281c-ce03-4c0f-bbb1-150ccb9be069" name="Default Changelist" comment="" />
+    <list default="true" id="2a58281c-ce03-4c0f-bbb1-150ccb9be069" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/node-mailer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/examples/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/lib/node-mailer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-mailer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/notifer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/notifer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/notifer/notifier.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/notifer/notifier.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +40,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c5co8EaIUgo2sx3dQkA8lqcGaE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,7 +85,9 @@
       <workItem from="1589822074748" duration="7384000" />
       <workItem from="1590055926451" duration="1028000" />
       <workItem from="1590218367512" duration="6573000" />
-      <workItem from="1590228232370" duration="29131000" />
+      <workItem from="1590228232370" duration="31674000" />
+      <workItem from="1590307907530" duration="2238000" />
+      <workItem from="1590400459213" duration="619000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,7 @@
 {
   "name": "side_hustle",
   "version": "1.0.0",
-  "description": "Api for water express",
+  "description": "Api for sidehustle express",
   "main": "dist/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   "devDependencies": {
     "express": "^4.17.1",
     "tslint": "^6.1.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.3"
   },
   "dependencies": {
     "atob": "^2.1.2",
