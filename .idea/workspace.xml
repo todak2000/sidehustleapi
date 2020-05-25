@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2a58281c-ce03-4c0f-bbb1-150ccb9be069" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/migrations/20200518184712-create-banks.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/migrations/20200518184712-create-banks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/seeders/20200411161116-userTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/seeders/20200411161116-userTypes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +32,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/repositories" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vendors/Notifer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/repositories" />
       <recent name="$PROJECT_DIR$/app/factories" />
       <recent name="$PROJECT_DIR$/helpers" />
       <recent name="$PROJECT_DIR$/app/routes/middlewares" />
-      <recent name="$PROJECT_DIR$/app" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/vendors/Notifer" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -63,7 +65,7 @@
       <workItem from="1590218367512" duration="6573000" />
       <workItem from="1590228232370" duration="31674000" />
       <workItem from="1590307907530" duration="2238000" />
-      <workItem from="1590400459213" duration="1446000" />
+      <workItem from="1590400459213" duration="4229000" />
     </task>
     <servers />
   </component>

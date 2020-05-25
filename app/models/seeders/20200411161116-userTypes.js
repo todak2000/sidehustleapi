@@ -5,7 +5,12 @@ module.exports = {
 
     return queryInterface.bulkInsert('User_types', [
       {
-        name: 'company',
+        name: 'artisan',
+
+
+      },
+      {
+        name: 'client',
 
 
       },
